@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <form action="">
+        <div>
+            <input type="text" placeholder="Masukan Nama" name="name">
+            <input type="password" placeholder="Masukan Password" name="password">
+            <input type="text" name="alamat" list="alamats" placeholder="Masukan Alamat">
+            <datalist id="alamats">
+                <option value="Amerika">Amerika</option>
+                <option value="Atlantika">Atlantika</option>
+                <option value="Afrika">Afrika</option>
+                <option value="Barka">Barka</option>
+                <option value="Brazil">Brazil</option>
+                <option value="Canada">Canada</option>
+                <option value="Colommbia">Colommbia</option>
+            </datalist>
+        </div>
+
+        <div>
+            jenis Kelamin : 
+            <input type="radio" name="hobi" value="Laki-Laki">Laki-Laki
+            <input type="radio" name="hobi" value="Perempuan">Perempuan
+        </div>
+
+        <div>
+            Hobi :
+            <input type="checkbox" name="hobi" value="futsal">Futsal
+            <input type="checkbox" name="hobi" value="Badminton">Badminton
+            <input type="checkbox" name="hobi" value="Renang">Renang
+        </div>
+
+        <div>
+            <button type="submit" name="kirim">Kirim</button>
+        </div>
+    </form>
+</body>
+</html>
