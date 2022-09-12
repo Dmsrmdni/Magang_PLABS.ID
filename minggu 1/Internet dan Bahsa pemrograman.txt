@@ -1,0 +1,127 @@
+Apa itu internet : 
+    Internet adalah kependekan dari Interconnected Network alias Jaringan yang Saling Terhubung,
+    yaitu merupakan jaringan komputer global yang saling tekoneksi satu sama lain menggunakan suatu protokol yang dinamakan 
+    TCP/IP (Transport Control Protocol / Internet Protocol) sehingga dapat mengirimkan informasi antara satu komputer dengan yang lainnya.
+
+pengertian internet : 
+  Dalam Kamus Besar Bahasa Indonesia (KBBI), internet adalah jaringan komunikasi elektronik yang menghubungkan jaringan komputer dengan fasilitas komputer di seluruh dunia.
+  Jaringan ini tersusun dan terorganisir melalui telepon atau satelit.
+
+  Menurut tokoh dan pakar di bidang teknologi informasi Onno W. Purbo, internet adalah media yang memungkinkan sebuah 
+  proses komunikasi yang bisa berjalan secara efisien dengan tersambungnya perangkat ke beragam aplikasi.
+
+
+Sejarah Internet : 
+
+  Bermula pada pembentukan badan ARPA di Amerika Serikat sekitar tahun 1969. Ketika itu, 
+  sebuah jaringan komputer dibentuk dan diberi nama ARPANET atau Advanced Research Projects Agency Network.
+
+  Kemudian Pada tahun 1962, Dr. Joseph Carl Robnett Licklider merumuskan gagasan awal jaringan global dalam serangkaian memo yang disebut “Intergalactic Computer Network” atau “Jaringan Komputer Intergalaksi”.
+  Gagasan tersebut merupakan cikal bakal metode packet switching
+
+  Teknologi ini terus berkembang pada 1970-an setelah ilmuwan Robert Kahn dan Vinton Cerf mengembangkan Transmission Control Protocol dan Internet Protocol atau TCP/IP
+
+  ARPANET mengadopsi  model TCP/IP pada tanggal 1 Januari 1983 yang merupakan awal perkembangan internet modern.
+
+
+Manfaat Internet : 
+  Internet adalah jaringan elektronik yang memiliki berbagai kegunaan dan manfaat untuk kehidupan masyarakat modern.
+  Berikut sejumlah manfaat yang bisa diambil dari adanya jaringan internet : 
+
+  -Sumber Informasi
+    Manfaat internet adalah dapat menyediakan beragam informasi yang dibutuhkan oleh semua orang. 
+    Hal ini bisa terjadi karena internet menghubungkan sejumlah perangkat di dunia yang mendukung untuk terjadinya pertukaran data serta informasi.
+
+  -Hiburan 
+    Internet adalah jaringan komputer yang bisa digunakan sebagai sarana hiburan. 
+    Jaringan ini mendukung berbagai macam bentuk file mulai dari tulisan, foto, video, hingga audio untuk diunggah dan dibagikan.
+
+
+  -Sarana Pendukung Kegiatan Ekonomi 
+    Dewasa ini aktivitas ekonomi tidak hanya dilakukan secara konvensional saja. 
+    Lebih dari itu, kehadiran internet sudah membuka peluang bagi siapa saja untuk melakukan kegiatan ekonomi. 
+    Contohnya seperti kehadiran e-commerce yang memudahkan penggunanya untuk mencari dan membeli barang yang dia inginkan. 
+
+  -Pendidikan dan Budaya 
+    Internet bisa menjadi sarana untuk memperoleh informasi yang memiliki nilai edukasi. Sebab, 
+    banyak sekali penelitian, buku, atau semacamnya yang dibagikan ke internet. Sehingga pengguna bisa mengunduhnya dan memakainya sebagai referensi. 
+
+  -dan masih banyak lagii
+    Internet adalah jaringan komputer yang saling terhubung. Keberadaannya sangat membantu aktivitas manusia hampir di segala bidang.
+
+
+
+Cara Kerja Internet :
+
+  Perlu dipahami bahwa internet diberikan oleh Internet Service Protocol atau ISP. ISP sendiri merupakan sebuah perusahaan penyedia layanan yang tugasnya menyediakan jasa koneki internet dan juga jasa lain yang masih ada keterkaitannya. Kebanyakan para perusahaan telepon merupakan ISP. Mereka bertugas menyediakan layanan, mulai dari pendaftaran domain, hosting, hubungan internet, dan lain sebagainya.
+  Contoh perusahaannya seperti apa? Beberapa perusahaan yang bergerak sebagai ISP antara lain: Telkomsel, CBN, Indosat, Speedy, dan lain sebagainya. Biasanya koneksi yang diberikan oleh ISP akan terhubung melalui sebuah kabel fiber atau kabel telepon yang dikubur maupun dipasang di tiang listrik.
+  Internet Service Protocol akan memberikan alamat ke komputer atau laptop. 
+  Kemudian ISP akan melakukan konfigurasi alamat agar supaya alamat tersebut bisa tersambung ke server ISP. 
+  Pengaturan tersebut biasanya akan dilakukan di router yang mana dari router inilah pengguna bisa melakukan berbagai macam konfigurasi lainnya sesuai dengan kebutuhan.
+  Beberapa konfigurasi yang bisa dilakukan adalah pembatasan sinyal, pembatasan kecepatan, daftar blokir, dan lain-lain.
+
+
+Cara Kerja WebServer : 
+
+  Saat Anda hendak mengunjungi sebuah website, browser akan membuat sebuah permintaan ke internet bernama HTTP request.
+  Web browser menggunakan Domain Name System (DNS) untuk mencari alamat IP dari website yang ingin Anda kunjungi. Alamat IP bekerja seperti nomor telepon Anda, yaitu semacam identitas khusus tempat browser bisa menghubungi server tujuan.
+  server menerima request dari breowser lalu memprosesnya ke HTTP server. Jika HTTP server menyetujui request tersebut, server akan mencari file website yang ingin Anda akses.
+  server kemudian mengirimkan kembali file tersebut ke web browser untuk ditampilkan dalam bentuk website.
+  Jika server tidak menemukan file yang Anda minta, server akan mengirimkan pesan 404 Error. Atau pada beberapa sebab, 403 Error.
+
+
+Apa Itu Bahsa Pemrograman : 
+
+  Bahasa pemrograman, atau sering diistilahkan juga dengan bahasa komputer, adalah instruksi standar untuk memerintah komputer. 
+  Bahasa pemrograman ini merupakan suatu himpunan dari aturan sintaks dan semantik yang dipakai untuk mendefinisikan program komputer.
+
+pengertian bahasa pemrograman : 
+
+  Bahasa program adalah sekumpulan instruksi yang diberikan kepada komputer untuk dapat melaksanakan tugas-tugas tertentu dalam menyelesaikan suatu permasalahan. 
+  Bahasa program berfungsi untuk memerintah komputer agar dapat mengolah data sesuai dengan langkah-langkah penyelesaian yang telah ditentukan oleh programmer.
+  Bahasa ini memungkinkan seorang programmer untuk menentukan secara persis data mana yang akan diolah oleh komputer, bagaimana data ini akan disimpan/diteruskan,
+  dan jenis langkah apa yang akan diambil dalam berbagai situasi secara persis.
+
+
+Fungsi Bahasa Program :
+
+  Fungsi utama dari bahasa pemrograman adalah sebagai alat untuk memberikan perintah kepada komputer agar dapat bergerak mengolah kata sesuai dengan apa yang kamu inginkan.
+  Hasil keluaran bahasa program sendiri dapat berupa aplikasi maupun suatu program khusus. 
+  Perkembangan bahasa program ini tentu menciptakan berbagai inovasi teknologi yang membantu masyarakat dalam kehidupan sehari-hari. 
+  Contohnya program lampu lalu lintas di jalan, mesin kasir, aplikasi game, anti-virus, web, media sosial, dan lain sebagainya.
+
+Tingkatan Bahasa Program : 
+  1. Bahasa Program Tingkat Rendah (Low-Level)
+
+  Bahasa program tingkat rendah berisi instruksi-instruksi yang ditujukan kepada komputer dengan menggunakan kode biner (binary). Kode-kode tersebut akan langsung diterjemahkan oleh komputer tanpa harus melalui proses kompilasi.
+
+  2. Bahasa Program Tingkat Menengah (Mid-Level)
+
+  Bahasa program tingkat menengah adalah instruksi yang berupa kode mnemonic seperti ADD, SUB, DIV, STOLOD, JMP dan lainnya. Namun, bahasa dalam tingkat menengah ini harus diterjemahkan terlebih dahulu ke dalam bahasa mesin, karena komputer hanya mengerti penggunaan bahasa mesin.
+
+  3. Bahasa Program Tingkat Tinggi (High-Level)
+
+  Bahasa program tingkat tinggi ini berisi instruksi-instruksi yang menggunakan bahasa alamiah yang dimengerti manusia, seperti bahasa Inggris atau matematika. Tingkatan ini diciptakan untuk mengatasi kekurangan yang dimiliki tingkat menengah dan tingkat rendah.
+
+Pengelompokkan Bahasa Program : 
+
+  Bahasa program dikelompokkan menjadi beberapa kategori, yaitu:
+
+  Object Oriented Language: Misalnya seperti Visual C, Delphi, Visual dBase, Visual FoxPro.
+  Low Level Language: Misalnya seperti Bahasa Assembly
+  Middle Level Language: Contohnya seperti Bahasa C.
+  High Level Language:  Contohnya seperti Basic dan Pascal.
+
+
+Cara Kerja Bahsa Pemrograman : 
+  Compilation vs Interpretation¶
+  Ada dua cara untuk mentranslate program yang dibuat dalam bahasa tingkat tinggi ke bahasa mesin, yaitu compilation dan interpretation.
+
+  Compilation - semua source code (misalnya .cpp) akan ditranslate secara sekaligus menjadi machine code oleh sebuah program yang disebut compiler. 
+  Kode yang sudah di-compile tersebut (misalnya .exe) bisa didistribusikan ke banyak mesin dan tinggal dieksekusi saja tanpa membutuhkan program lainnya. 
+  Contoh compiled programming language adalah: C, C++, Erlang, Haskell, Rust, and Go.
+
+  Interpretation - source code di translate dan dieksekusi baris per baris, sehingga tidak menghasilkan file baru yang berisi bahasa mesin.Karena tidak ada file dalam machine code, 
+  maka yang didistribusikan ke pengguna lain adalah source code-nya, 
+  namun setiap ingin menjalankan source code tersebut pengguna juga membutuhkan program interpreter yang sesuai. 
+  Contoh interpreted programming language adalah: PHP, Ruby, Python, and JavaScript.
