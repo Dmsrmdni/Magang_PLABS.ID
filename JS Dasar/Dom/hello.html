@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+
+    <h1 id="welcome" style="color: red;"></h1>
+    <p id="hello"></p>
+
+    <div id="yow">
+    </div>
+
+    <p id="demo"></p>
+
+    <br><br>
+    <img id="gambar" src="../../HTML Dasar/assets/image/kafe ruang lapang.jpg" width="200px" alt="">
+
+    <br><br><br>
+    <ul id="list">
+        <li id="first">First</li>
+        <li id="second">Second</li>
+        <li id="third">Third</li>
+    </ul>
+    <script>
+        document.getElementById("hello").innerHTML = "Hello World";
+        document.getElementById('welcome').innerHTML = "Selamat Datang";
+        document.getElementById('welcome').style.color = "blue";
+        let yow = document.getElementById('yow');
+        yow.innerHTML = 'Dimas Ramdani';
+
+        document.getElementById('demo').innerHTML = "Date : " + Date();
+        document.getElementById('gambar').src = "../../HTML Dasar/assets/image/lawangwangi creative space.jpg";
+
+
+        const list = document.getElementById('list');
+        list.removeChild(document.getElementById('second'));
+    </script>
+</body>
+
+</html>

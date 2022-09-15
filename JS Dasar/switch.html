@@ -10,10 +10,20 @@
 
 <body>
     <script>
-        let nilai = 'B';
+        let nilai = '100';
+
+        if (nilai > 80) {
+            hasil = "A";
+        } else if (nilai > 70) {
+            hasil = "B";
+        } else if (nilai > 60) {
+            hasil = "C";
+        } else if (nilai > 50) {
+            hasil = "D";
+        }
 
 
-        switch (nilai) {
+        switch (hasil) {
             case 'A':
                 document.writeln('Wow Selamat Anda Lulus Dengan Baik');
                 break;
